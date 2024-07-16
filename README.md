@@ -8,7 +8,7 @@ This project builds three types of movie recommendation systems using the MovieL
 - **Movies.csv**: Movie IDs, titles, genres.
 - **Ratings.csv**: User IDs, movie IDs, ratings, timestamps.
 
-#Steps
+# Steps
 1. Load and explore the data.
 2. Build and evaluate the recommendation models.
 3. Optional: Use a GUI for interactive recommendations.
